@@ -37,3 +37,4 @@ alphabet: dict[
 
 #вытаскиваем dictionary inside another dictionary:
 print(alphabet.get(5))
+alphabet.
